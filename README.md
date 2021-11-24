@@ -1,6 +1,6 @@
 # testjspuro
 
-``
+```
 let arregloLetras = (arr, letra) =>{
  
  let result = arr.includes(letra)
@@ -26,4 +26,4 @@ let arregloLetras = (arr, letra) =>{
 } 
 
 arregloLetras(["ab","a"], "a")
-``
+```
