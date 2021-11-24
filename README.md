@@ -1,5 +1,8 @@
 # testjspuro
-
+# el código se puede probar en: 
+```
+https://playcode.io/new/
+```
 ```
 let arregloLetras = (arr, letra) =>{
  
