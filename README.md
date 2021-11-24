@@ -1,5 +1,9 @@
 # testjspuro
 # el código se puede probar en: 
+
+Una función que recibe un arreglo de palabras y una palabra debe retornar un arreglo con la cantidad de veces que aparece esa palabra en el arreglo y el largo del arreglo
+Al llamarla con (["ab","a"], "a") debería retornar [1,2]
+
 ```
 https://playcode.io/new/
 ```
